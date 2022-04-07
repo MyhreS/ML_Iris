@@ -1,2 +1,2 @@
-# Machine-Learning-first-project
- Following a beginner guide to machine learning
+# First project of doing Machine Learning
+ Following a beginner guide to machine learning on the Iris dataset.
