@@ -1,2 +1,2 @@
-# First project of doing Machine Learning
+# ML Iris
  Following a beginner guide to machine learning on the Iris dataset.
